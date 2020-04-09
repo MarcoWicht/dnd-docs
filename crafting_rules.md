@@ -2,6 +2,8 @@
 
 ## Value / Cost
 
+A Chraracter can craft up to 250 gp worth of magic items per day.
+
 Characters have to gather rescources from monsters to create enchantments of varying rarity.
 
 | Monster CR	| Rarity	  | Mod 	| Value			        	|
