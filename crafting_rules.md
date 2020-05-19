@@ -18,18 +18,18 @@ Characters have to gather rescources from monsters to create enchantments of var
 
 An enchantment can only be placed on an item of sufficient quality. The quality of a base item determins the enchantment slots of a magic item.
 
-A base item costs an additional 10% of the final magic item.
+A base item costs an additional 5% of the final magic item.
 
 R.Up == rarity up
 
 |  slots   |  Common  |  Uncommon    |  Rare        |  Very Rare     |  Legendary       |
 |  ---     |  ---     |  ---         |  ---         |  ---           |  ---             |
-|    1     |    5     |    50        |   500        |    5000        |     50000        |
-|    2     |    -     |   100        |  1000        |   10000        |    100000        |
-|    3     |    -     |   300 (R.Up) |  3000        |   30000        |    300000        |
-|    4     |    -     |     -        |  6000 (R.Up) |   60000        |    600000        |
-|    5     |    -     |     -        |   -          |  100000 (R.Up) |   1000000        |
-|    6     |    -     |     -        |   -          |    -           |   3000000 (R.Up) |
+|    1     |    2.5     |    25        |   250        |    2500        |     25000        |
+|    2     |    -     |   50        |  500        |   5000        |    50000        |
+|    3     |    -     |   150 (R.Up) |  1500        |   15000        |    150000        |
+|    4     |    -     |     -        |  3000 (R.Up) |   30000        |    300000        |
+|    5     |    -     |     -        |   -          |  50000 (R.Up) |   500000        |
+|    6     |    -     |     -        |   -          |    -           |   1500000 (R.Up) |
 
 ## Enchantments 
 
@@ -65,24 +65,4 @@ R.Up == rarity up
 | Disadvantage		  | All					        |		    	| 			    | 	X	              	| 			              |			                |
 | Regeneration		  | All					        |			    | 			    | 	1d6/10min		      | 	2d6/10min		      |			                |
 
-### Equipment Slots:
-
-#### Existing Items with enchantments
-
-Fly speed:
-- Winged Boots (while attuned, limited duration per day)
-
-AC:
-- Ingot of the Skold Rune (Wondrous Item, on person)
-- Cloak of Protection (worn)
-- Ring of Protection (worn)
-- Badge of the Watch (worn)
-- Revenant Double-Bladed Scimitar (wielding)
-- Staff of Defense (while holding)
-
-Senses:
-- Belt of Dwarfenkind (Darkvision, while attuned)
-- Dagger of Blindsight (while attuned)
-- Goggles of Night (Darkvision, while worn)
-- Ironfang (Legendary weapon, Tremorsense, while attuned)
 
